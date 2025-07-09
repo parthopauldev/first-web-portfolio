@@ -28,6 +28,10 @@
     box-sizing: 5px;
     font-size: 20px;
     border: none;
+   
+}
+.btn-primary i{
+    margin-right: 10px;
 }
 .section-title{
     font-size: 35px;
